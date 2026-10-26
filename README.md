@@ -153,7 +153,7 @@ WeatherWise/
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+KNikhith
 
 - GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
 
