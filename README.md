@@ -153,9 +153,9 @@ WeatherWise/
 
 ## 👨‍💻 Author
 
-KNikhith
+Nikhith Kotluri
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: KNikhith(https://github.com/KNikhith)
 
 ## 📄 License
 
